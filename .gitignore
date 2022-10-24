@@ -2,7 +2,7 @@
 .idea
 .env
 
-node_modules/
+ui/node_modules/
 package-lock.json
 pnpm-lock.yaml
 

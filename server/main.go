@@ -1,13 +1,14 @@
 package main
 
 import (
-	"./server"
 	"crypto/tls"
 	"net"
 	"os"
 	"os/signal"
-	"./database"
 	"syscall"
+
+	"github.com/cmetallo42/tic-tac-toe/server/database"
+	"github.com/cmetallo42/tic-tac-toe/server/server"
 
 	"github.com/valyala/fasthttp"
 
