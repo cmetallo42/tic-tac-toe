@@ -1,0 +1,14 @@
+/* fakecss:/home/cmetallo/.projects/tic-tac-toe/src/Root.esbuild-svelte-fake-css */
+.field.svelte-1srphmo {
+  background-color: green;
+  display: grid;
+  grid-template-areas: "1 2 3" "4 5 6" "7 8 9";
+  padding: 1%;
+  width: 500px;
+  height: 500px;
+}
+button.svelte-1srphmo {
+  width: 93%;
+  height: 93%;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,3 @@
+HOST="localhost"
+DATABASE_DSN="host=localhost port=5432 dbname=test user=test password=test"
+AUTHENTICATION_HOST="auth.test.ru"
