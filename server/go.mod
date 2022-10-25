@@ -1,3 +1,3 @@
-module server
+module tictactoe
 
 go 1.19
